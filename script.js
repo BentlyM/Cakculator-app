@@ -3,7 +3,7 @@ const multiply = document.getElementById('multiplication');
 const subtraction = document.getElementById('subtraction');
 const addition = document.getElementById('addition');
 const equal = document.getElementById('equal');
-const digit = document.getElementById('digit');
+const digit = document.getElementById('digit'); // this is the display basically lol
 const clear = document.querySelector('#clear');
 let num1, num2 , operator;
 let sum = 0; 
